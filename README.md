@@ -19,3 +19,6 @@ This project aims to develop an end-to-end solution for credit risk prediction i
    As part of our project, we will prepare clear and concise visual media to present our solution to the lending company. These visualizations will effectively communicate our findings and insights, aiding in decision-making processes.
 
 By successfully implementing this end-to-end solution, we aim to minimize financial losses by avoiding risky   loans and increase our net profit margin in P2P platforms. This collaborative effort between ID/X Partners and Rakamin Academy showcases our commitment to applying data science methodologies in real-world scenarios, driving meaningful outcomes.
+
+Data Source:
+https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv

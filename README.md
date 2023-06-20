@@ -22,3 +22,6 @@ By successfully implementing this end-to-end solution, we aim to minimize financ
 
 Data Source:
 https://rakamin-lms.s3.ap-southeast-1.amazonaws.com/vix-assets/idx-partners/loan_data_2007_2014.csv
+
+Medium:
+https://medium.com/@basharaaina/predicting-credit-risk-unleashing-the-power-of-machine-learning-dd8a47ba691b
